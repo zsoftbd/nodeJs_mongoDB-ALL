@@ -1,0 +1,6 @@
+npm init -y
+npm i express mongodb mongoose
+npm i --save-dev nodemon
+npm i cors
+npm i body-parser
+
